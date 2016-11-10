@@ -1,0 +1,43 @@
+/* 공통 CSS */
+body {
+	font-family : "koverwatch"
+}
+
+#loginUser {
+	color : red;
+}
+
+img {
+	width : 145px;
+	height : 181px;
+}
+
+/* bookCommentDetail.html에서 사용 */
+
+.bookDetailImage {
+	width : 250px;
+}
+
+.divCenter {
+	text-align: left;
+	vertical-align: middle;
+}
+
+/* bookCoomentManager.html에서 사용 */
+img.commentSearch {
+	width : 250px;
+}
+
+hr {
+	border-color: coral;
+	border-style: solid none;
+	border-width: 3px 0;
+	margin: 18px 0;
+}
+
+/* bookInsert.html에서 사용 */
+.imageDiv {
+	width : 145px;
+	height : 181px;
+	background-color: yellow;
+}
